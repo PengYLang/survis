@@ -1,6 +1,6 @@
 ﻿const generatedBibEntries = {
     "Alqobali2024SemanticNavigation": {
-        "author": "Raghad Alqobali and Maha Alshmrani and Reem Alnasser and Asrar Rashidi and Tareq Alhmiedat and Osama Moh\ufffd\ufffdd Alia",
+        "author": "Raghad Alqobali and Maha Alshmrani and Reem Alnasser and Asrar Rashidi and Tareq Alhmiedat and Osama Moh'd Alia",
         "category": "Robot Semantic Navigation",
         "doi": "10.3390/app14010089",
         "journal": "Applied Sciences",
@@ -15,12 +15,12 @@
         "year": "2024"
     },
     "Beck2016Visual": {
-        "abstract": "Bibiographic data such as collections of scientific articles and citation networks have been studied extensively in information visualization and visual analytics research. Powerful systems have been built to support various types of bibliographic analysis, but they require some training and cannot be used to disseminate the insights gained. In contrast, we focused on developing a more accessible visual analytics system, called SurVis, that is ready to disseminate a carefully surveyed literature collection. The authors of a survey may use our Web-based system to structure and analyze their literature database. Later, readers of the survey can obtain an overview, quickly retrieve specific publications, and reproduce or extend the original bibliographic analysis. Our system employs a set of selectors that enable users to filter and browse the literature collection as well as to control interactive visualizations. The versatile selector concept includes selectors for textual search, filtering by keywords and meta-information, selection and clustering of similar publications, and following citation links. Agreement to the selector is represented by word-sized sparkline visualizations seamlessly integrated into the user interface. Based on an analysis of the analytical reasoning process, we derived requirements for the system. We developed the system in a formative way involving other researchers writing literature surveys. A questionnaire study with 14 visual analytics experts confirms that SurVis meets the initially formulated requirements.",
+        "abstract": "Bibliographic data such as collections of scientific articles and citation networks have been studied extensively in information visualization and visual analytics research. Powerful systems have been built to support various types of bibliographic analysis, but they require some training and cannot be used to disseminate the insights gained. In contrast, we focused on developing a more accessible visual analytics system, called SurVis, that is ready to disseminate a carefully surveyed literature collection. The authors of a survey may use our Web-based system to structure and analyze their literature database. Later, readers of the survey can obtain an overview, quickly retrieve specific publications, and reproduce or extend the original bibliographic analysis. Our system employs a set of selectors that enable users to filter and browse the literature collection as well as to control interactive visualizations. The versatile selector concept includes selectors for textual search, filtering by keywords and meta-information, selection and clustering of similar publications, and following citation links. Agreement to the selector is represented by word-sized sparkline visualizations seamlessly integrated into the user interface. Based on an analysis of the analytical reasoning process, we derived requirements for the system. We developed the system in a formative way involving other researchers writing literature surveys. A questionnaire study with 14 visual analytics experts confirms that SurVis meets the initially formulated requirements.",
         "author": "Beck, Fabian and Koch, Sebastian and Weiskopf, Daniel",
         "doi": "10.1109/TVCG.2015.2467757",
         "journal": "IEEE Transactions on Visualization and Computer Graphics",
         "keywords": "type:system, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
-        "number": "01 02",
+        "number": "02",
         "publisher": "IEEE",
         "series": "TVCG",
         "title": "Visual Analysis and Dissemination of Scientific Literature Collections with {SurVis}",
@@ -43,7 +43,7 @@
         "author": "Xiaozhi Chen and Huimin Ma and Ji Wan and Bo Li and Tian Xia",
         "booktitle": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
         "category": "3D Object Detection",
-        "keywords": "3D object detection, multi-view fusion, LIDAR, RGB, autonomous driving, bird\ufffd\ufffds eye view, region-based fusion",
+        "keywords": "3D object detection, multi-view fusion, LIDAR, RGB, autonomous driving, bird's eye view, region-based fusion",
         "pages": "1907--1915",
         "publisher": "IEEE",
         "title": "Multi-View 3D Object Detection Network for Autonomous Driving",
@@ -67,14 +67,14 @@
         "year": "1968"
     },
     "Hollinger2009Efficient": {
-        "author": "{Geoffrey Hollinger} and {Sanjiv Singh} and {Joseph Djugash} and {Athanasios Kehagias}",
+        "author": "Geoffrey Hollinger and Sanjiv Singh and Joseph Djugash and Athanasios Kehagias",
         "doi": "10.1177/0278364908099853",
         "journal": "The International Journal of Robotics Research",
         "keywords": "multi-robot coordination, autonomous search, approximation algorithms, range-only sensing, decentralized computation, POMDPs",
         "number": "09",
         "pages": "201--219",
         "publisher": "SAGE Publications",
-        "title": "{Efficient Multi-Robot Search for a Moving Target}",
+        "title": "Efficient Multi-Robot Search for a Moving Target",
         "type": "article @article{Hollinger2009Efficient,",
         "url": "https://doi.org/10.1177/0278364908099853",
         "volume": "28",
@@ -90,7 +90,7 @@
         "pages": "38--44",
         "publisher": "IEEE",
         "title": "ANYmal - A Highly Mobile and Dynamic Quadrupedal Robot",
-        "type": "inproceedings type:Quadrupedal Robot + Locomotion",
+        "type": "inproceedings @inproceedings{Hutter2016ANYmal, type:Quadrupedal Robot + Locomotion",
         "url": "https://doi.org/10.1109/IROS.2016.7758092",
         "year": "2016"
     },
@@ -122,13 +122,13 @@
     },
     "Sgaravatti2025HybridFusion3D": {
         "author": "Carlo Sgaravatti and Roberto Basla and Riccardo Pieroni and Matteo Corno and Sergio M. Savaresi and Luca Magri and Giacomo Boracchi",
-        "category": "Multimodal 3D Object Detection Perception Modality",
+        "category": "Perception Modality",
         "journal": "arXiv preprint arXiv:2504.18419",
-        "keywords": "3D Object Detection, Multimodal Fusion, LiDAR, RGB, Late Fusion, Cascade Fusion, Autonomous Driving 3D Object Detection, Multimodal Fusion, Late Fusion, Cascade Architecture, LiDAR, RGB, Deep Learning, Autonomous Driving",
+        "keywords": "3D Object Detection, Multimodal Fusion, Late Fusion, Cascade Architecture, LiDAR, RGB, Deep Learning, Autonomous Driving",
         "note": "Under review",
         "number": "02",
         "title": "A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection",
-        "type": "article type:Multimodal + 3D Detection type:Multimodal + 3D Detection",
+        "type": "article type:Multimodal + 3D Detection",
         "url": "https://arxiv.org/abs/2504.18419",
         "year": "2025"
     },
