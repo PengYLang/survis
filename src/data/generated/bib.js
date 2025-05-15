@@ -16,7 +16,7 @@
         "doi": "10.1109/TVCG.2015.2467757",
         "journal": "IEEE Transactions on Visualization and Computer Graphics",
         "keywords": "type:system, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
-        "number": "01",
+        "number": "01 02",
         "publisher": "IEEE",
         "series": "TVCG",
         "title": "Visual Analysis and Dissemination of Scientific Literature Collections with {SurVis}",
@@ -36,24 +36,16 @@
     "Chen2017MV3D": {
         "author": "Chen, Xiaozhi and Ma, Huimin and Wan, Ji and Li, Bo and Xia, Tian",
         "booktitle": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "number": "07",
         "pages": "1907--1915",
         "title": "Multi-View 3D Object Detection Network for Autonomous Driving",
         "type": "inproceedings",
         "year": "2017"
     },
-    "Cockburn2008MemoryBounded": {
-        "author": "Cockburn, Denton and Kobti, Ziad",
-        "booktitle": "Proceedings of the Twenty-First International FLAIRS Conference",
-        "pages": "376--381",
-        "publisher": "AAAI",
-        "title": "Memory-Bounded D* Lite",
-        "type": "inproceedings",
-        "year": "2008"
-    },
     "Hart1968Formal": {
         "author": "Hart, Peter E. and Nilsson, Nils J. and Raphael, Bertram",
         "journal": "IEEE Transactions on Systems Science and Cybernetics",
-        "number": "2",
+        "number": "04",
         "pages": "100--107",
         "publisher": "IEEE",
         "title": "A Formal Basis for the Heuristic Determination of Minimum Cost Paths",
@@ -61,26 +53,35 @@
         "volume": "SSC-4",
         "year": "1968"
     },
+    "Hollinger2009Efficient": {
+        "author": "{Geoffrey Hollinger} and {Sanjiv Singh} and {Joseph Djugash} and {Athanasios Kehagias}",
+        "doi": "10.1177/0278364908099853",
+        "journal": "The International Journal of Robotics Research",
+        "keywords": "multi-robot coordination, autonomous search, approximation algorithms, range-only sensing, decentralized computation, POMDPs",
+        "number": "09",
+        "pages": "201--219",
+        "publisher": "SAGE Publications",
+        "title": "{Efficient Multi-Robot Search for a Moving Target}",
+        "type": "article",
+        "url": "https://doi.org/10.1177/0278364908099853",
+        "volume": "28",
+        "year": "2009"
+    },
     "Hutter2016ANYmal": {
         "address": "Daejeon, Korea",
         "author": "Hutter, Marco and Gehring, Christian and Jud, Dominic and Lauber, Andreas and Bellicoso, C. Dario and Tsounis, Vassilios and Hwangbo, Jemin and Bodie, Karen and Fankhauser, Peter and Bloesch, Michael and Diethelm, Remo and Bachmann, Samuel and Melzer, Amir and Hoepflinger, Mark",
         "booktitle": "Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+        "number": "05",
         "pages": "38--44",
         "publisher": "IEEE",
         "title": "ANYmal - A Highly Mobile and Dynamic Quadrupedal Robot",
         "type": "inproceedings",
         "year": "2016"
     },
-    "MultimodalHybrid2023": {
-        "author": "Unknown",
-        "note": "Document provided by user",
-        "title": "A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection",
-        "type": "article",
-        "year": "2023"
-    },
     "Rollo2023ArtifactsMapping": {
         "author": "Rollo, Federico and Raiola, Gennaro and Zunino, Andrea and Tsagarakis, Nikolaos and Ajoudani, Arash",
         "booktitle": "European Conference on Mobile Robots (ECMR)",
+        "number": "06",
         "publisher": "IEEE",
         "title": "Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization",
         "type": "inproceedings",
@@ -94,6 +95,18 @@
         "title": "Towards Robust Perception for Assistive Robotics: An RGB-Event-LiDAR Dataset and Multi-Modal Detection Pipeline",
         "type": "inproceedings",
         "year": "2024"
+    },
+    "Sgaravatti2025HybridFusion3D": {
+        "author": "Carlo Sgaravatti and Roberto Basla and Riccardo Pieroni and Matteo Corno and Sergio M. Savaresi and Luca Magri and Giacomo Boracchi",
+        "category": "Multimodal 3D Object Detection Perception Modality",
+        "journal": "arXiv preprint arXiv:2504.18419",
+        "keywords": "3D Object Detection, Multimodal Fusion, LiDAR, RGB, Late Fusion, Cascade Fusion, Autonomous Driving 3D Object Detection, Multimodal Fusion, Late Fusion, Cascade Architecture, LiDAR, RGB, Deep Learning, Autonomous Driving",
+        "note": "Under review",
+        "number": "02",
+        "title": "A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection",
+        "type": "article type:Multimodal + 3D Detection type:Multimodal + 3D Detection",
+        "url": "https://arxiv.org/abs/2504.18419",
+        "year": "2025"
     },
     "Thrun2000Probabilistic": {
         "author": "Thrun, Sebastian",
