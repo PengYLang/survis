@@ -14,21 +14,6 @@
         "volume": "14",
         "year": "2024"
     },
-    "Beck2016Visual": {
-        "abstract": "Bibliographic data such as collections of scientific articles and citation networks have been studied extensively in information visualization and visual analytics research. Powerful systems have been built to support various types of bibliographic analysis, but they require some training and cannot be used to disseminate the insights gained. In contrast, we focused on developing a more accessible visual analytics system, called SurVis, that is ready to disseminate a carefully surveyed literature collection. The authors of a survey may use our Web-based system to structure and analyze their literature database. Later, readers of the survey can obtain an overview, quickly retrieve specific publications, and reproduce or extend the original bibliographic analysis. Our system employs a set of selectors that enable users to filter and browse the literature collection as well as to control interactive visualizations. The versatile selector concept includes selectors for textual search, filtering by keywords and meta-information, selection and clustering of similar publications, and following citation links. Agreement to the selector is represented by word-sized sparkline visualizations seamlessly integrated into the user interface. Based on an analysis of the analytical reasoning process, we derived requirements for the system. We developed the system in a formative way involving other researchers writing literature surveys. A questionnaire study with 14 visual analytics experts confirms that SurVis meets the initially formulated requirements.",
-        "author": "Beck, Fabian and Koch, Sebastian and Weiskopf, Daniel",
-        "doi": "10.1109/TVCG.2015.2467757",
-        "journal": "IEEE Transactions on Visualization and Computer Graphics",
-        "keywords": "type:system, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
-        "number": "02",
-        "publisher": "IEEE",
-        "series": "TVCG",
-        "title": "Visual Analysis and Dissemination of Scientific Literature Collections with {SurVis}",
-        "type": "article",
-        "url": "http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/vast15-survis.pdf",
-        "volume": "22",
-        "year": "2016"
-    },
     "Chaplot2020SemExp": {
         "author": "Devendra Singh Chaplot and Dhiraj Gandhi and Abhinav Gupta and Ruslan Salakhutdinov",
         "booktitle": "Proceedings of the 34th Conference on Neural Information Processing Systems (NeurIPS)",
@@ -119,18 +104,6 @@
         "type": "inproceedings",
         "url": "https://doi.org/10.1109/CASE59546.2024.10711832",
         "year": "2024"
-    },
-    "Sgaravatti2025HybridFusion3D": {
-        "author": "Carlo Sgaravatti and Roberto Basla and Riccardo Pieroni and Matteo Corno and Sergio M. Savaresi and Luca Magri and Giacomo Boracchi",
-        "category": "Perception Modality",
-        "journal": "arXiv preprint arXiv:2504.18419",
-        "keywords": "type:3D Object Detection, Multimodal Fusion, Late Fusion, Cascade Architecture, LiDAR, RGB, Deep Learning, Autonomous Driving",
-        "note": "Under review",
-        "number": "02",
-        "title": "A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection",
-        "type": "article",
-        "url": "https://arxiv.org/abs/2504.18419",
-        "year": "2025"
     },
     "Thrun2000ProbabilisticRobotics": {
         "author": "Sebastian Thrun",
